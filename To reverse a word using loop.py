@@ -1,4 +1,4 @@
-print("puneeth")
+print("mohan")
 def reverse_word(word):
     reversed_word = ""
     # Iterate through the word from the last character to the first
